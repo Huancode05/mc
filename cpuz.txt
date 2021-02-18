@@ -446,7 +446,7 @@ BIOS
 -------------------------------------------------------------------------
 
 UEFI				Yes
-BIOS Date			
+BIOS Date			ÂÂÂÂÂÂÂÂ
 
 Chipset
 -------------------------------------------------------------------------
@@ -518,7 +518,7 @@ Storage
 -------------------------------------------------------------------------
 
 Drive	0
-	Serial			áß
+	Serial			Ã¡ÃŸ
 	Capacity		5120.0 GB
 	Type			Fixed
 	Bus Type		SCSI (1)
@@ -526,7 +526,7 @@ Drive	0
 	Volume			e:\, 5067.2 GBytes (0.7 percent available)
 
 Drive	1
-	Serial			+HÆ
+	Serial			+HÃ†
 	Capacity		50.0 GB
 	Type			Fixed
 	Bus Type		SCSI (1)
@@ -534,7 +534,7 @@ Drive	1
 	Volume			c:\, 49.4 GBytes (34.1 percent available)
 
 Drive	2
-	Name			ÀĞÿÿø
+	Name			Ã€ÃÃ¿Ã¿Ã¸
 	Capacity		100.0 GB
 	Type			Fixed
 	Bus Type		SCSI (1)
